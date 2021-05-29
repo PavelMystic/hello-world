@@ -1,1 +1,2 @@
 New source file to add to project.
+New line in the new source file, added under different branch than master.
